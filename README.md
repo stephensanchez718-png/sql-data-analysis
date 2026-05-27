@@ -3,6 +3,12 @@
 ## Overview
 Built a relational database to analyze authentication activity and system performance across a simulated IT environment.
 
+SQL Data Analysis Project
+Overview
+Built a relational database to analyze authentication activity and system performance across a simulated IT environment.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/48b3d6e6-ede8-422f-8eae-7a75729a98a9" />
+
 ## Data Scale
 - 210+ login records
 - 10 users
